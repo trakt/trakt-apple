@@ -1,9 +1,9 @@
 ## Code of Conduct
 
-To ensure our community remains a productive and welcoming environment for collaboration, we ask that everyone abide by the following code of conduct:
+To ensure our community remains a productive and welcoming environment for collaboration, we ask that everyone abide by the following Code of Conduct:
 
 - **Respect:** Treat all members of the community with the respect they deserve, regardless of their experience or background.
-- **Constructive Criticism:** When providing feedback, focus on the code, not the coder. Offer suggestions that actually help improve the project.
-- **Inclusivity:** Embrace diversity and inclusivity in all forms. Our project thrives on the unique perspectives and talents of its contributors.
+- **Constructive Communication:** Keep feedback productive, professional, and respectful. Profanity, derogatory remarks, or insults directed at the project, its versions, or its contributors will not be tolerated. Focus on the issue, not the frustration.
+- **Inclusivity:** We welcome and value contributors from all backgrounds, perspectives, and skill levels.
 
-Thank you for contributing to trakt-apple. Let's create something extraordinary together.
+Thank you for contributing to trakt-apple and helping improve the app.
